@@ -1,0 +1,40 @@
+nav  {
+    background-color:#FFF0ED ;
+}
+
+.product-description-div {
+    background-color: #FFF0ED;
+
+}
+
+footer {
+    background-color: #FFF0ED;
+}
+
+.discount-offer-div {
+    background-color: #393939;
+}
+
+
+.cards-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around
+    
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.menu-options-div  {
+    display: flex;
+    flex-direction: row;
+    
+
+
+}
